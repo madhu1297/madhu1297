@@ -1,7 +1,5 @@
-👋 Hi there, I am Madhuri Deore.
+👋 Hi there, I am Madhuri Patil.
 
-🌱 I’m currently learning data analysis techniques and tools.
+📊 I’m a Data Analytics professional with 2+ years of experience in delivering data-driven insights and supporting business decision-making.
 
-💻 I’m working on real-world projects to gain practical experience.
-
-📊 This repository showcases my journey through various data analytics projects, highlighting my dedication to mastering this field and my commitment to continuous learning.
+📈 This repository showcasess my journey through impactful analytics projects that reflect my hands-on experience, problem-solving skills, and continuous learning in the data domain.
